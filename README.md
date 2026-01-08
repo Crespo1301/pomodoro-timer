@@ -1,4 +1,4 @@
-# 🍅 Pomodoro Timer CLI
+# Pomodoro Timer CLI
 
 A simple command-line Pomodoro timer with session tracking.
 
@@ -27,7 +27,7 @@ Options:
 ```
 
 ## Demo
-[Add GIF here]
+![Alt Text](https://github.com/Crespo1301/pomodoro-timer/blob/main/pomodoro-timer.gif)
 
 ## Tech
 
