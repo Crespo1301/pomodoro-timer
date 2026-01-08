@@ -1,0 +1,22 @@
+{
+  "sessions": [
+    {
+      "type": "work",
+      "duration": 25,
+      "completed": false,
+      "timestamp": "2026-01-07T21:13:19.216312"
+    },
+    {
+      "type": "work",
+      "duration": 25,
+      "completed": false,
+      "timestamp": "2026-01-07T21:14:19.669380"
+    },
+    {
+      "type": "break",
+      "duration": 5,
+      "completed": false,
+      "timestamp": "2026-01-07T21:14:40.688956"
+    }
+  ]
+}
