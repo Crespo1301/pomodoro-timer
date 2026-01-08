@@ -31,5 +31,5 @@ Options:
 
 ## Tech
 
-- Python 3.x
+- Python 3.13.9
 - No external dependencies
