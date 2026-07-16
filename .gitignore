@@ -1,0 +1,6 @@
+.env.ai.local
+.mcp.json
+.agents/skills/
+.claude/skills/
+__pycache__/
+*.py[cod]
