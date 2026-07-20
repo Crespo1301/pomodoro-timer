@@ -4,3 +4,6 @@
 .claude/skills/
 __pycache__/
 *.py[cod]
+
+# Local browser QA screenshots
+.visual-checks/
